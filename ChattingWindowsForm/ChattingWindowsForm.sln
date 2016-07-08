@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerApp", "ServerApp\Serv
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FormatterText", "FormatterText\FormatterText.vcxproj", "{E14BBBC1-7F49-4327-8670-670F9CAE57B0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientApp", "ClientApp\ClientApp.vcxproj", "{0E78381F-FC8D-46FF-A3BE-7285D9C616E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{E14BBBC1-7F49-4327-8670-670F9CAE57B0}.Debug|Win32.Build.0 = Debug|Win32
 		{E14BBBC1-7F49-4327-8670-670F9CAE57B0}.Release|Win32.ActiveCfg = Release|Win32
 		{E14BBBC1-7F49-4327-8670-670F9CAE57B0}.Release|Win32.Build.0 = Release|Win32
+		{0E78381F-FC8D-46FF-A3BE-7285D9C616E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E78381F-FC8D-46FF-A3BE-7285D9C616E0}.Debug|Win32.Build.0 = Debug|Win32
+		{0E78381F-FC8D-46FF-A3BE-7285D9C616E0}.Release|Win32.ActiveCfg = Release|Win32
+		{0E78381F-FC8D-46FF-A3BE-7285D9C616E0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
